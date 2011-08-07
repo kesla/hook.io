@@ -1,4 +1,3 @@
-
      __    __    ______     ______    __  ___         __    ______   
     |  |  |  |  /  __  \   /  __  \  |  |/  /        |  |  /  __  \  
     |  |__|  | |  |  |  | |  |  |  | |  '  /         |  | |  |  |  | 
@@ -38,6 +37,7 @@
 - [pinger](http://github.com/hookio/pinger): Pings URLS on intervals (useful for monitoring)
 - [request](http://github.com/hookio/request): Simple wrapper for [http://github.com/mikeal/request](http://github.com/mikeal/request)
 - [repl](http://github.com/hookio/repl): Rainbow Powered REPL
+- [sitewatcher](https://github.com/kesla/hook.io-sitewatcher): Get notified when sites changes.
 - [twilio](http://github.com/hookio/twilio): Make calls and send SMS through [Twilio][5]
 - [twitter](http://github.com/hookio/twitter): Wrapper to Twitter API
 - [webhook](http://github.com/hookio/webhook): Emits received HTTP requests as Events (with optional JSON-RPC 1.0 Support)
